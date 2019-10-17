@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://omisaijahz.laconicdata.com/sitemap.xml
